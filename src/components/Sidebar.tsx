@@ -1,4 +1,4 @@
-import { BookAIcon, Home, Settings, UserCircle2 } from "lucide-react"
+import {Home, UserCircle2 } from "lucide-react"
 
 import {
   Sidebar,
