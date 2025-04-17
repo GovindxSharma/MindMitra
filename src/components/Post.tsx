@@ -1,4 +1,3 @@
-import { Link } from "react-router-dom"
 import PostInteraction from "./PostInteraction"
 import PostDropdown from "./Dropdown"
 
